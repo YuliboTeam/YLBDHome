@@ -1,0 +1,6 @@
+framework module YLBDHome {
+  umbrella header "YLBDHome-umbrella.h"
+
+  export *
+  module * { export * }
+}
