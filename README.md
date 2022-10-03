@@ -22,7 +22,7 @@ pod 'YLBDHome'
 
 ## Author
 
-余礼钵, 564885081@qq.com
+余礼钵
 
 ## License
 
